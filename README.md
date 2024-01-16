@@ -1,2 +1,8 @@
-# vitunix-calamares
-calamares installer config for vitunix os
+# ExelentOS installer
+
+just the config for calamares :)
+
+
+## installing
+
+why tf are you going to install this, it works like aur :/

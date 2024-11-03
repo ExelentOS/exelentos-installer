@@ -72,7 +72,7 @@ Presentation
         anchors.fill: parent
 
         Image {
-            id: background2
+            id: background5
             source: "slides/5.png"
             anchors.fill: parent
         }
@@ -82,7 +82,7 @@ Presentation
         anchors.fill: parent
 
         Image {
-            id: background2
+            id: background6
             source: "slides/6.png"
             anchors.fill: parent
         }
@@ -92,7 +92,7 @@ Presentation
         anchors.fill: parent
 
         Image {
-            id: background2
+            id: background7
             source: "slides/7.png"
             anchors.fill: parent
         }

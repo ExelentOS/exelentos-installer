@@ -67,28 +67,36 @@ Presentation
             anchors.fill: parent
         }
     }
-   
-/*
+ 
     Slide {
         anchors.fill: parent
 
         Image {
-            id: background5
-            source: "slides/5.jpg"
+            id: background2
+            source: "slides/5.png"
+            anchors.fill: parent
+        }
+    }  
+
+    Slide {
+        anchors.fill: parent
+
+        Image {
+            id: background2
+            source: "slides/6.png"
+            anchors.fill: parent
+        }
+      }
+
+    Slide {
+        anchors.fill: parent
+
+        Image {
+            id: background2
+            source: "slides/7.png"
             anchors.fill: parent
         }
     }
-
-    Slide {
-        anchors.fill: parent
-
-        Image {
-            id: background6
-            source: "slides/6.jpg"
-            anchors.fill: parent
-        }
-    } */
-
     function onActivate() {
         console.log("QML Component (default slideshow) activated");
         presentation.currentSlide = 0;

@@ -5,7 +5,7 @@
 
 /*------------------------ Global Fonts -------------------*/
 *{
-    font: 12px "Jetbrains Mono";
+    font: 12px "Blanka";
 }
 
 /*------------------------ Bottom Buttons -----------------*/
